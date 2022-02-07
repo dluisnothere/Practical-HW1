@@ -8,7 +8,7 @@
 ## Step 2:
 
 * Transaction ID from account A: TG3YMFESNGPAKQETGX5IV225CHR5UOIYLV2PUTMOU7MGIVJWOL7A
-* Transaction ID from account B: 
+* Transaction ID from account B: AGJJKRV7W4ADZNJNCHLA2TAF4BYYMVWSR4BUR4QMZI73VART2DEA
 
 ## Step 3.1:
 
