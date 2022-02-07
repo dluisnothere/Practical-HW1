@@ -12,8 +12,8 @@
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 69287847
+* Name of the asset: unita
 
 ## Step 3.2:
 
