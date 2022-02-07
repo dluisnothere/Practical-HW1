@@ -25,7 +25,7 @@
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: KUNYH66DVJJGYUV4AXSX27Z4RLQAJ7XXYATJGY4WKKX4RHEBRJVQ
 
 ## Step 5.1:
 
